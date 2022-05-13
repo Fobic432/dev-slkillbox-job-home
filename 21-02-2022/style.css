@@ -1,0 +1,30 @@
+div.container {
+    border: 14px double #a6ff00;
+    border-bottom: 7px solid #949599;
+    border-top: 7px solid #949599;
+    border-radius: 50px 100px;
+    border-radius: 10% 20% 30% 0;
+    height: 200px;
+    margin: 50px 70px;
+    padding: 40px 40px 40px 50px;
+    width: 400px;
+    box-sizing: border-box;
+    text-align: center ;
+    -webkit-box-sizing: content-box; 
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    margin: 0 auto;
+    margin-bottom: 22px ;
+    padding: 0 30px;
+    width: 960px;   
+  }
+  .btn{
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+  }
+
+  .btn-alt {
+    border: 1px solid red;
+    padding: 10px 20px;
+  }

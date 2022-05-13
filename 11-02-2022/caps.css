@@ -1,0 +1,15 @@
+table{
+    border: 2px solid green;
+    /* border-collapse: collapse; */
+    /* width: 100%; */
+    width: 600px;
+    background-color: khaki;
+}
+
+th {
+    border: 1px solid orange;
+}
+td{
+    border: 1px solid black;
+    background-color: aqua;
+}
